@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="F:\Universidad\Noveno Semestre\Desarrollo Movil Multiplataforma\RetrofitPoke\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_fc35932070f2850b799ba38d854638e18ff98c5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\Universidad\Noveno Semestre\Desarrollo Movil Multiplataforma\RetrofitPoke\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_2d3d12005b7fa98e8d04adb388af8c7ed31a823a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="F:\Universidad\Noveno Semestre\Desarrollo Movil Multiplataforma\RetrofitPoke\app\build\intermediates\pre-dexed\debug\okio-1.13.0_40bdeede60f95a83bb9d886084d00b31ef22a76b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\Universidad\Noveno Semestre\Desarrollo Movil Multiplataforma\RetrofitPoke\app\build\intermediates\pre-dexed\debug\glide-3.7.0_880d2f96946fedebc16881929c407ce2976a34b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\.android\build-cache\098e4fc898fbd655b30e3642da23ab081cba20a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="F:\Universidad\Noveno Semestre\Desarrollo Movil Multiplataforma\RetrofitPoke\app\build\intermediates\pre-dexed\debug\classes_b5376f9721966be0cb0e68dee0fec441d6db7cf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\.android\build-cache\01016c1593c9b9d7b8d444011e3d7cee267fefeb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\Universidad\Noveno Semestre\Desarrollo Movil Multiplataforma\RetrofitPoke\app\build\intermediates\pre-dexed\debug\classes_b02046852fc698cc8fb4a1e7855abd9195c10929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="F:\Universidad\Noveno Semestre\Desarrollo Movil Multiplataforma\RetrofitPoke\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_ab728f4d057a8867deeb05e826c9d839cba3b2b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="F:\Universidad\Noveno Semestre\Desarrollo Movil Multiplataforma\RetrofitPoke\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_3214a6d9cb801ef0df30da16ef609af0f492e22c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="F:\Universidad\Noveno Semestre\Desarrollo Movil Multiplataforma\RetrofitPoke\app\build\intermediates\pre-dexed\debug\gson-2.7_fee0001ae1a7b8741b89b33acbfd9364d3454c46.jar" />
+    </item>
+
+</items>
